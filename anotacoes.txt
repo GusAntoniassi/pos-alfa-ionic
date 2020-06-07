@@ -1,0 +1,14 @@
+# Ionic
+
+Munif Gebara
+munif@munif.com.br
+munifgebara.github.io
+
+https://ionicframework.com/
+https://github.com/munifgebara
+
+Java - SDKMAN
+
+Page = component
+Service = Compartilhados, comunica c/ armazenamento de dados
+    - Regra de negócios
